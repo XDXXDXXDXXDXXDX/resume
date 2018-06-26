@@ -186,4 +186,13 @@ footer {
     color: #aaabab;
 }
 
+@media screen and (max-width: 730px) {
+    .edublock, .jobblock, .studyblock {
+        display: block;
+        vertical-align: top;
+        width: 100%;
+    }
+}
+
+
 
